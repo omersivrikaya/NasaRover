@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nasa.RoverProject", "Nasa.Rover\Nasa.RoverProject.csproj", "{8722B7DD-52E3-4885-8600-A0E25FF451C2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nasa.RoverProject.Tests", "Nasa.Rover.Tests\Nasa.RoverProject.Tests.csproj", "{4F23DB78-488C-4AC8-82CF-814C667786C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8722B7DD-52E3-4885-8600-A0E25FF451C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8722B7DD-52E3-4885-8600-A0E25FF451C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8722B7DD-52E3-4885-8600-A0E25FF451C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8722B7DD-52E3-4885-8600-A0E25FF451C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F23DB78-488C-4AC8-82CF-814C667786C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F23DB78-488C-4AC8-82CF-814C667786C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F23DB78-488C-4AC8-82CF-814C667786C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F23DB78-488C-4AC8-82CF-814C667786C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD24DD33-2B32-46DA-9446-72B53B91F824}
+	EndGlobalSection
+EndGlobal
